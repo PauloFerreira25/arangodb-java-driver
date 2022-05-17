@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ## [Unreleased]
 
+- changed default protocol from VST to HTTP/1.1
+
 ## [6.17.0] - 2022-05-17
 
 - updated dependencies
